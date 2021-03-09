@@ -1,0 +1,23 @@
+body{
+    background: linear-gradient(#fc036b 20%, #0c1291 100%);
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+h2{
+    color: black;
+}
+#player_answer,#player_question{
+    color: black;
+}
+#player1_score,#player2_score,#player1_name,#player2_name{
+    color: black;
+    display:inline;
+} 
+
